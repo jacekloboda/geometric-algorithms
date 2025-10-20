@@ -1,4 +1,4 @@
-# Algorytmy-Geometryczne
+# Algorytmy-Geometryczne.
 
 ## Uwagi
 - Dla osób korzystających z systemu operacyjnego Windows, zalecamy wykorzystanie instalację wszystkiego na WSL, szczególnie przydatne, kiedy już zostały podjęte próby instalacji condy bez standardowych ścieżek instalacji lub kiedy na samym Windowsie coś nie działa
